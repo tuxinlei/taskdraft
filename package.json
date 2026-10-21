@@ -1,0 +1,15 @@
+{
+  "name": "taskdraft",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Local-first AI task capture and daily planning",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
